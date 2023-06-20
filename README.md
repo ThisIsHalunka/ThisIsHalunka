@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Bohdan Halunka**!
-## I'm a *self-taugh programmer and student* from Ternopil.
+## I'm a *newbie programmer* from Ternopil.
 ## Currently I am learning JS and React / React Native.
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
