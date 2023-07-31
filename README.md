@@ -1,7 +1,6 @@
 # 👋🏻 Hi, my name is **Bohdan Halunka**!
 ## I'm a *newbie programmer* from Ternopil.
-## Currently I am learning JS and interested in React Native.
-### Check my website: [thisishalunka.com](https://thisishalunka.github.io/personal/)
+## Currently I am learning and practicing JS and React Native.
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
