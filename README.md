@@ -3,7 +3,7 @@
 ## I am interested in back-end development with Node.js
 ## Currently, I am learning complex JavaScript topics, Node.js, MongoDB, and networks.
 ### Languages and Technologies that I use:
-![JavaScript]((https://img.shields.io/badge/logo-javascript-blue?logo=javascript))
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
