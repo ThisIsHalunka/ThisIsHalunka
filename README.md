@@ -1,9 +1,9 @@
 # 👋🏻 Hi, my name is **Bohdan Halunka**!
 ## I'm a *newbie programmer* from Ternopil.
-## I am interested in mobile development, cross-platform to be precise.
-## At the moment I'm learning Dart & Flutter, in the future I would like to become a Flutter dev who solves a real-world problems.
+## I am interested in back-end development with Node.js
+## Currently, I am learning complex JavaScript topics, Node.js, MongoDB, and networks.
 ### Languages and Technologies that I use:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript]((https://img.shields.io/badge/logo-javascript-blue?logo=javascript))
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
