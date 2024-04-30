@@ -1,6 +1,6 @@
-# 👋🏻 Hi, my name is **Bohdan Halunka**!
-## I'm a newbie backend engineer from Ternopil.
-## At the moment, I'm getting my Computer Engineering degree at West Ukrainian University 
+# 👋🏻 Hi, my name is **Bohdan Halunka**
+## I'm a newbie backend engineer from a faine city Ternopil
+## At the moment, I'm getting my Computer Engineering degree at West Ukrainian University, the second year student 
 ### Languages and technologies that I use on my daily basis:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
