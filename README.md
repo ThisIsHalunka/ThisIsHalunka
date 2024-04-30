@@ -9,5 +9,5 @@
 
 ### ✉️ Mail me: thisishalunka@gmail.com
 #
-> Talk is cheap. Show me the code. <br/>
-> ***Linus Torvalds***
+> What's my definition of success?Listening to what your heart says. <br/>
+> ***NF***
