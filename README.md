@@ -8,6 +8,7 @@
 ![PhpStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 ### ✉️ Mail me: thisishalunka@gmail.com
+### ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 #
 > What's my definition of success?Listening to what your heart says. <br/>
 > ***NF***
