@@ -13,6 +13,3 @@
 
 ### ✉️ Mail me: thisishalunka@gmail.com
 ### Telegram: https://t.me/bohdan_halunka 
-#
-> What's my definition of success?Listening to what your heart says. <br/>
-> ***NF***
